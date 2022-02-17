@@ -5,5 +5,7 @@ abstract class AbstractBike {
 }
  class bike extends AbstractBike{
 	 void run()
-	 {System.out.println("Running safely");}
+	 {System.out.println("Running safely");
+	 System.out.println("Code is running");
+	 }
  }
