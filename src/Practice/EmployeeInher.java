@@ -5,7 +5,9 @@ public class EmployeeInher {
 		   Programmer p=new Programmer();  
 		   System.out.println("Programmer salary is:"+p.salary);
 		   System.out.println("Bonus salary");
-		   System.out.println("Bonus of Programmer is:"+p.bonus);  
+		   System.out.println("Bonus of Programmer is:"+p.bonus);
+		   System.out.println("Happy Employee");
+		
 		}  
 
 }
